@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeRecyclerView</string>
+    <string name="ingredientsLabel_Text">Ingredients</string>
+    <string name="directionsLabel_Text">Directions</string>
+</resources>
